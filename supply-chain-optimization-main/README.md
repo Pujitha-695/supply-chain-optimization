@@ -54,8 +54,5 @@ uv run jupyter notebook
 - openpyxl
 - jupyter
 
-## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/).\
-For more case studies, check my [Personal Website](https://samirsaci.com).
+
 
